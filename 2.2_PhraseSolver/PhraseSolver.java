@@ -15,6 +15,7 @@ public class PhraseSolver
   public PhraseSolver ()
   {
     solved = false;
+    solution = "";
   } 
 
   public void play()
